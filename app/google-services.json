@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842062767797",
+    "project_id": "picknmix-ddbac",
+    "storage_bucket": "picknmix-ddbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842062767797:android:d54b24db84ff6e067180fc",
+        "android_client_info": {
+          "package_name": "com.example.pickmix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842062767797-rma37ej3bmqoup931rv6t66bgu1q4i05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeBlLA1khiEIIRT9KsI9KI69bB-lRX1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842062767797-rma37ej3bmqoup931rv6t66bgu1q4i05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
